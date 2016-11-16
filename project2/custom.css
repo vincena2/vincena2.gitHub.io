@@ -1,5 +1,12 @@
 
 
+body{
+    
+    background-image: url("maxresdefault.jpg");
+    background-color: #cccccc;
+
+}
+
 .loginBox{
     background: white;
     padding : 20px 20px;
