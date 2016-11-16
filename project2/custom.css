@@ -7,6 +7,10 @@ body{
 
 }
 
+.image{
+    size : 20px;
+}
+
 .loginBox{
     background: white;
     padding : 20px 20px;
