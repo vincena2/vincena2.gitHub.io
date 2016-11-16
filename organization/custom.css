@@ -1,0 +1,101 @@
+
+
+body{
+    
+    background-image: url("maxresdefault.jpg");
+    background-color: #cccccc;
+
+}
+
+.image{
+    size : 1pt;
+}
+
+.loginBox{
+    background: white;
+    padding : 20px 20px;
+    align-self: center;
+    margin: 250px 350px;
+    width: 500px;
+    background-color: lightblue;
+}
+
+.loginBox h1{
+    font-size: 20px;
+    text-align: center;
+}
+
+.box{
+    margin: 30px 150px;
+}
+
+.button{
+    float: right;
+}
+.blank{
+    margin: 5px;
+}
+
+.swe{
+    color: coral;
+    text-align: center; 
+    font-size: 25px;
+    
+}
+
+.navbar{
+    padding: 20px;
+}
+
+.aboutswe{
+    background: floralwhite;
+}
+
+.aboutswe h1{
+    text-align: center;
+    color: mediumvioletred;
+
+}
+
+.aboutswe p{
+    font-size: 20pt;
+}
+
+.events{
+    background: lightblue;
+    font-size: 15pt;
+    padding: 125px;
+  
+  
+}
+
+.uevents{
+    background: lightblue;
+   
+}
+
+.events h2{
+    text-align: center;
+}
+
+.box2{
+    text-align: center;
+}
+
+.uevents h2{
+    text-align: center;
+    color: mediumvioletred;
+    font-size: 25pt;
+}
+
+.uevents{
+    padding : 150px;
+    font-size: 20pt;
+    color:maroon;
+}
+
+.table{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
